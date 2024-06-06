@@ -1,0 +1,14 @@
+C:\Users\Hp\Documents\dotnet\QuizAppCs\bin\Debug\net8.0\QuizAppCs.exe
+C:\Users\Hp\Documents\dotnet\QuizAppCs\bin\Debug\net8.0\QuizAppCs.deps.json
+C:\Users\Hp\Documents\dotnet\QuizAppCs\bin\Debug\net8.0\QuizAppCs.runtimeconfig.json
+C:\Users\Hp\Documents\dotnet\QuizAppCs\bin\Debug\net8.0\QuizAppCs.dll
+C:\Users\Hp\Documents\dotnet\QuizAppCs\bin\Debug\net8.0\QuizAppCs.pdb
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.AssemblyInfo.cs
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.dll
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\refint\QuizAppCs.dll
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.pdb
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\QuizAppCs.genruntimeconfig.cache
+C:\Users\Hp\Documents\dotnet\QuizAppCs\obj\Debug\net8.0\ref\QuizAppCs.dll
